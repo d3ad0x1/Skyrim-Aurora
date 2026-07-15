@@ -1,39 +1,84 @@
-Aurora Build Environment
+# Aurora Build Environment
 
-Game
+> Official build environment for Skyrim: Aurora
 
-Skyrim Anniversary Edition
+---
 
-Steam
+## Project
 
-Game Version
+| Property | Value |
+|----------|-------|
+| Project | Skyrim: Aurora |
+| Status | Development |
+| Branch | main |
 
-1.6.xxx
+---
 
-Mod Manager
+## Game
 
-Mod Organizer 2 2.5.2
+| Property | Value |
+|----------|-------|
+| Game | Skyrim Special Edition |
+| Edition | Anniversary Edition |
+| Distribution | Steam |
+| Supported | ✔ |
+| GOG | ❌ |
+| VR | ❌ |
+| Game Pass | ❌ |
 
-LOOT
+---
 
-...
+## Build Environment
 
-xEdit
+| Component | Version |
+|-----------|----------|
+| Windows | 11 24H2 |
+| Mod Organizer 2 | 2.5.2 |
+| LOOT | Latest Stable |
+| xEdit | Latest Stable |
+| BethINI Pie | Latest Stable |
 
-...
+---
 
-BethINI
+## Directories
 
-...
+| Name | Path |
+|------|------|
+| Repository | D:\Skyrim-Aurora |
+| Build Workspace | D:\Aurora |
+| Downloads | D:\Aurora\Downloads |
+| Mods | D:\Aurora\Mods |
+| Profiles | D:\Aurora\Profiles |
+| Tools | D:\Aurora\Tools |
 
-Windows
+---
 
-11 24H2
+## Build Philosophy
 
-Build Directory
+- Portable Development Environment
+- Version Controlled Documentation
+- One Mod at a Time
+- Test Before Commit
+- Performance First
 
-D:\Aurora
+---
 
-Repository
+## Build Status
 
-D:\Skyrim-Aurora
+Current Phase
+
+Aurora Core
+
+Current Module
+
+Engine
+
+Current Version
+
+0.1.0-alpha
+
+---
+
+Last Updated
+
+2026
